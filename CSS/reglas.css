@@ -1,0 +1,89 @@
+/*CSS Document*/
+#mprincipal ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-right: 20px;
+    border-radius: 10px solid #000000;
+    
+
+}
+
+#mprincipal ul li {
+        
+        line-height: 80px;
+        padding-bottom: 5px;
+    }
+        
+    #mprincipal ul li a {
+            display: block;
+            padding: 0 10px;
+            text-decoration: none;
+        }
+        
+        #mprincipal ul li a:hover {
+                background: #0b76a6;
+            }
+            #hn {
+                text-align: center
+            }
+            #links{
+                text-align: center
+            }
+            #links {
+                float: center;
+                background: #0b76a6;    
+            }
+#hsa{
+    text-align: center;
+    text-decoration-color: chartreuse;
+}
+#uls{
+    text-align: justify;
+}
+table,td{
+    border: 1px solid black;
+}
+table,th{
+    border: 1px solid black;
+}
+#cv{
+ text-align: left;
+ text-anchor: middle;
+ text-decoration: blue;
+ color: chocolate;
+}
+#dcv{
+    text-align: left;
+    text-decoration:red;
+    color: cadetblue;
+    font: Arial;
+   }
+#tcv{
+    text-align: left;
+    text-anchor: middle;
+    text-decoration: blue;
+    color: chartreuse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   #ctcv{
+    text-align: left;
+    text-anchor: middle;
+    text-decoration: blue;
+    color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   #ccv{
+    text-align: left;
+    text-anchor: middle;
+    text-decoration: blue;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
+   #scv{
+    text-align: left;
+    text-anchor: middle;
+    text-decoration: blue;
+    color: indigo;
+    font-family: cursive
+   }
